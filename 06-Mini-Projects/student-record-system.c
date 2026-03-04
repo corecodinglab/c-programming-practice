@@ -1,3 +1,19 @@
+/*
+Project: Student Record Management System
+Language: C
+Description:
+Console-based program that allows users to store and view student records.
+
+Features:
+1. Add student record
+2. Display student records
+3. File storage using C file handling
+
+Future Improvements:
+- Search student
+- Delete record
+- Update record
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
